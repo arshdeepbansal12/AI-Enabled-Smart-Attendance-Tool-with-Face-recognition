@@ -1,1 +1,1 @@
-# AI-Enabled-Smart-Attendance-Tool-with-Face-recognition
+This is a engineering clinics project
